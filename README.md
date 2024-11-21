@@ -47,3 +47,23 @@ This repository contains a Readmission Prediction System designed to predict hos
     -Visualizing model accuracy comparisons.
 -Includes preprocessing steps like feature scaling and encoding.
 
+**Usage**
+- **Federated Learning:** Simulate multiple clients and observe the aggregated global model's performance.
+- **Model Comparison:** Use the dashboard to compare different machine learning models for prediction tasks.
+
+**Requirements**
+- Python 3.7+
+- **Libraries:**
+    - pandas
+    - numpy
+    - scikit-learn
+    - matplotlib
+    - streamlit
+    - socket
+    - pickle
+
+**Future Enhancements**
+- Incorporate more clients and advanced aggregation methods.
+- Add more machine learning models and deep learning approaches.
+- Enhance the Streamlit interface with additional insights
+
