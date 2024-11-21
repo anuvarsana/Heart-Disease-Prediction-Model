@@ -41,10 +41,10 @@ This repository contains a Readmission Prediction System designed to predict hos
 
 **3. streamlitcapf.py (Streamlit Dashboard)**
 - Provides an interactive interface for:
-    -Training and testing different models (Random Forest, Decision Tree, SVM).
-    -Hyperparameter tuning.
-    -Detecting overfitting.
-    -Visualizing model accuracy comparisons.
+    - Training and testing different models (Random Forest, Decision Tree, SVM).
+    - Hyperparameter tuning.
+    - Detecting overfitting.
+    - Visualizing model accuracy comparisons.
 -Includes preprocessing steps like feature scaling and encoding.
 
 **Usage**
