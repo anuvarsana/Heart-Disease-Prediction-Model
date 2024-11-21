@@ -4,6 +4,7 @@
 
 This repository contains a Readmission Prediction System designed to predict hospital readmission using machine learning models. It incorporates client-server architecture, federated learning techniques, and a Streamlit-based interactive dashboard for model comparison.
 
+
 **Features**
 
 **1. Federated Learning Simulation:**
@@ -19,6 +20,7 @@ This repository contains a Readmission Prediction System designed to predict hos
 **3. Interactive Dashboard:**
 
 - Built with Streamlit for real-time visualization and comparison of model performance.
+
 
 **File Descriptions**
 
@@ -47,9 +49,11 @@ This repository contains a Readmission Prediction System designed to predict hos
     - Visualizing model accuracy comparisons.
 -Includes preprocessing steps like feature scaling and encoding.
 
+
 **Usage**
 - **Federated Learning:** Simulate multiple clients and observe the aggregated global model's performance.
 - **Model Comparison:** Use the dashboard to compare different machine learning models for prediction tasks.
+
 
 **Requirements**
 - Python 3.7+
